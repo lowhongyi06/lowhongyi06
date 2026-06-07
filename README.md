@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Low Hong Yi
 
-<!--
-**lowhongyi06/lowhongyi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student at Taylor's University, specializing in Artificial Intelligence.
 
-Here are some ideas to get you started:
+I am currently building my skills in software development, data analysis, machine learning, and mobile application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+* Learning Git and GitHub
+* Building academic and personal portfolio projects
+* Improving programming and problem-solving skills
+* Exploring AI, data analysis, and software development
+
+## Technical Interests
+
+* Software Development
+* Mobile Application Development
+* Data Analysis
+* Machine Learning
+* Deep Learning
+* Game Design
+
+## Tools & Technologies
+
+* Python
+* Java
+* SQL
+* Android Studio
+* Google Colab
+* Visual Studio Code
